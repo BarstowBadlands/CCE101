@@ -1,0 +1,45 @@
+body {
+    margin: 5%;
+    background-color: aquamarine;
+}
+
+.bold {
+    font-size: larger;
+}
+
+.main-info {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: large;
+    margin-left: 5%;
+    margin-right: 15%;
+    display: flex;
+}
+
+.sections {
+    display: flex;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    font-family: "Roboto", sans-serif;
+}
+
+.my-img {
+    width: 600px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.my-img-small {
+    width: 400px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.my-img-small2 {
+    margin: 2%;
+    display: grid;
+    columns: 2;
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+}
